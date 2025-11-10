@@ -1,6 +1,6 @@
 # Hi, I'm Nasir 👋
 
-I'm a **clinical laboratory operations expert** and **bioinformatics researcher** building [Quanta](https://nasirnesirli.com/projects/): a clinical laboratory ERP and ML-powered antimicrobial resistance (AMR) surveillance.
+I'm a **clinical laboratory operations expert** and **bioinformatics researcher** building [Genolab](https://nasirnesirli.com/projects/): a clinical laboratory ERP and ML-powered antimicrobial resistance (AMR) surveillance.
 
 ## 🔬 Background
 
