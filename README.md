@@ -1,43 +1,40 @@
-# Hi, I'm Nasir 👋
+  # Hi, I'm Nasir Nesirli 👋
 
-I'm a **clinical microbiologist** and **bioinformatics researcher** building [NextLab](https://nasirnesirli.com/projects/): a clinical laboratory modules and ML-powered antimicrobial resistance (AMR) solutions.
+  ## 🧬 Computational Microbiologist & Bioinformatics Engineer
 
-## 🔬 Background
+  I work at the intersection of **clinical microbiology**, **genomics**, and **machine learning**, with a focus on antimicrobial resistance (AMR) and pathogen genomics.
 
-- **MSc in Bioinformatics** - Thesis on interpretable ML for AMR prediction in *Klebsiella pneumoniae*
-- **BSc in Microbiology**
-- Former **Clinical Laboratory Manager** and clinical microbiologist
-- Currently leading microbiology lab setup projects in Azerbaijan (BioMérieux instrumentation)
+  ### 🔬 What I Do
+  - **AMR Genomics**: Building ML models for antimicrobial resistance prediction
+  - **Pipeline Development**: Creating end-to-end genomic workflows with Nextflow
+  - **Clinical Diagnostics**: Bridging wet-lab microbiology with computational analysis
+  - **Pathogen Classification**: Developing ML-based classification systems from raw reads
 
+  ### 🛠️ Tech Stack
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+  ![Nextflow](https://img.shields.io/badge/-Nextflow-44A833?style=flat&logo=nextflow&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-## 💻 Tech Stack
+  **Languages**: Python, R, Bash
+  **ML/DL**: PyTorch, scikit-learn, HuggingFace Transformers
+  **Bioinformatics**: Nextflow, nf-core, SPAdes, Prokka, Abricate
+  **Data**: Pandas, NumPy, Matplotlib, Streamlit
+  **Infrastructure**: Docker, Git, FastAPI
 
-**Primary:**
-- Python (FastAPI, scikit-learn, pandas)
-- Frappe Framework / ERPNext
-- JavaScript (ES6+)
-- MariaDB / SQL
+  ### 🧪 Current Projects
+  - **AMR-BERT Pipeline**: Transformer-based AMR prediction using DNABERT2
+  - **Genomic Workflows**: Modular Nextflow pipelines for bacterial WGS analysis
+  - **Pathogen Classification**: ML models for species identification from sequencing data
 
-**Focus Areas:**
-- Laboratory information systems
-- Bioinformatics pipelines
-- Interpretable machine learning for AMR
-- Clinical workflow automation
+  ### 🎓 Background
+  - **MSc Bioinformatics** - University of Birmingham (2024-2025)
+  - **10+ years** clinical microbiology & laboratory leadership
+  - **Current**: Leading multi-site clinical microbiology lab setup in Azerbaijan
 
-## 📫 Connect
-
-- 🌐 Website: [nasirnesirli.com](https://nasirnesirli.com)
-- 📧 Email: nasir.nesirli@gmail.com
-- 💼 LinkedIn: [Linkedin](https://www.linkedin.com/in/nasirnesirli/)
-- 📝 Blog: [nasirnesirli.com/blog](https://nasirnesirli.com/blog)
-
-## 🎯 Open to
-
-- Collaborations on laboratory informatics projects
-- Discussing lab operations challenges and solutions
-- AMR surveillance methodology
-- Frappe Framework / ERPNext development
-
----
-
-*Building better tools for clinical laboratories, one commit at a time.*
+  ### 📫 Connect
+  - **Website**: [nasirnesirli.com](https://nasirnesirli.com)
+  - **LinkedIn**: [@nasirnesirli](https://linkedin.com/in/nasirnesirli)
+  - **Email**: [hello@nasirnesirli.com](mailto:hello@nasirnesirli.com)
+  - **ORCID**: [0009-0005-3038-7781](https://orcid.org/0009-0005-3038-7781)
