@@ -17,11 +17,11 @@
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-  **Languages**: Python, R, Bash
-  **ML/DL**: PyTorch, scikit-learn, HuggingFace Transformers
-  **Bioinformatics**: Nextflow, nf-core, SPAdes, Prokka, Abricate
-  **Data**: Pandas, NumPy, Matplotlib, Streamlit
-  **Infrastructure**: Docker, Git, FastAPI
+  - **Languages**: Python, R, Bash
+  - **ML/DL**: PyTorch, scikit-learn, HuggingFace Transformers
+  - **Bioinformatics**: Nextflow, nf-core, SPAdes, Prokka, Abricate
+  - **Data**: Pandas, NumPy, Matplotlib, Streamlit
+  - **Infrastructure**: Docker, Git, FastAPI
 
   ### 🧪 Current Projects
   - **AMR-BERT Pipeline**: Transformer-based AMR prediction using DNABERT2
