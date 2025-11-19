@@ -6,8 +6,11 @@
 
   ### 🔬 What I Do
   - **AMR Genomics**: Building ML models for antimicrobial resistance prediction
+    
   - **Pipeline Development**: Creating end-to-end genomic workflows with Nextflow
+    
   - **Clinical Diagnostics**: Bridging wet-lab microbiology with computational analysis
+    
   - **Pathogen Classification**: Developing ML-based classification systems from raw reads
 
   ### 🛠️ Tech Stack
