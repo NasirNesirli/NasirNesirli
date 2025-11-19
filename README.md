@@ -35,6 +35,6 @@
 
   ### 📫 Connect
   - **Website**: [nasirnesirli.com](https://nasirnesirli.com)
-  - **LinkedIn**: [@nasirnesirli](https://linkedin.com/in/nasirnesirli)
-  - **Email**: [hello@nasirnesirli.com](mailto:hello@nasirnesirli.com)
+  - **LinkedIn**: [Nasir Nesirli](https://linkedin.com/in/nasirnesirli)
+  - **Email**: [nasir.nesirli@gmail.com](mailto:nasir.nesirli@gmail.com)
   - **ORCID**: [0009-0005-3038-7781](https://orcid.org/0009-0005-3038-7781)
