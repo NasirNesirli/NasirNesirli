@@ -1,4 +1,4 @@
-  # Hi, I'm Nasir Nesirli 👋
+  # Hi, I'm Nasir
 
   ## 🧬 Bioinformatics Engineer
 
@@ -19,8 +19,8 @@
 
   - **Languages**: Python, R, Bash
   - **ML/DL**: PyTorch, scikit-learn, HuggingFace Transformers
-  - **Bioinformatics**: Nextflow, nf-core, SPAdes, Prokka, Abricate
-  - **Data**: Pandas, NumPy, Matplotlib, Streamlit
+  - **Bioinformatics**: Nextflow, nf-core, SPAdes, Prokka, AMRFinder
+  - **Data**: Pandas, NumPy, Matplotlib
   - **Infrastructure**: Docker, Git, FastAPI
 
   ### 🧪 Current Projects
