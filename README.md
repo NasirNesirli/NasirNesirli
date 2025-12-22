@@ -1,6 +1,6 @@
   # Hi, I'm Nasir Nesirli 👋
 
-  ## 🧬 Computational Microbiologist & Bioinformatics Engineer
+  ## 🧬 Bioinformatics Engineer
 
   I work at the intersection of **clinical microbiology**, **genomics**, and **machine learning**, with a focus on antimicrobial resistance (AMR) and pathogen genomics.
 
