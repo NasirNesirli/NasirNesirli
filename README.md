@@ -1,4 +1,4 @@
-## Nasir Nasirli — Bioinformatics Engineer
+## Nasir Nasirli - Bioinformatics Engineer
 
 Building cloud-native genomics infrastructure. Nextflow DSL2 · AWS Batch · Terraform · Python.
 
